@@ -1,6 +1,9 @@
 # Sistemas_Distribuidos
 Simulador Blockchain
 
+Código: 160004622
+Nombre: Jose Daniel Barreto Aguilera
+
 Requisitos 
 - Sistema Linux.
 - Tener compilador de C.
